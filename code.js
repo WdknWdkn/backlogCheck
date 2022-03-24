@@ -4,7 +4,7 @@ function BacklogPolice() {
   postSlack(JSON.parse(response));
 }
 
-var backlogNamespace = 'ielove-pro';
+var backlogNamespace = 'zzzzzzzzzzzz'; // バックログのスペース名
 var backlogUrl = 'https://' + backlogNamespace + '.backlog.com/';
 
 function fetchBacklogIssues() {
